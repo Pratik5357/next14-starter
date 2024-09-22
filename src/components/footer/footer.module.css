@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    color: gray;
+}
+
+.log0{
+    font-weight: bold;
+}
+
+.text{
+    font-style: 10px;
+}
